@@ -9,6 +9,7 @@ Before you begin, make sure you have Node.js and npm (Node Package Manager) inst
 ## Installation
 
 Navigate to the project directory and install the project dependencies using npm.
+
 $ cd megaverse-test
 $ npm install
 
